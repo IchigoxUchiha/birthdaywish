@@ -181,8 +181,8 @@
         Wishing you a day filled with love, laughter, cake, and everything you deserve!  
         May this year bring you happiness and dreams coming true. 💖✨  
         <br><br>
-        You’re the ultimate teammate — even when you steal my loot and no-scope me by accident.  
-        Life’s just better in co-op with you! 🎮❤️
+        You’re the ultimate teammate — even when you steal my loot and blame me all the time.  
+        It's just fun to play with you! 🎮❤️
       </p>
 
       <p class="from">“The teammate you didn’t ask for, but got matched with anyway. Your certified reviver”
